@@ -4,4 +4,4 @@ __pycache__
 models
 notes.txt
 storage
-data
+# data
